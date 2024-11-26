@@ -8,3 +8,7 @@
 - Sử dụng input hidden để truyền dữ liệu
 - Sử dụng :has để style
 - Sử dụng header để redirect
+### 26/11
+- Sử dụng & trong query
+- Thêm ảnh từ form vào csdl
+- Thêm dữ liệu từ select option
